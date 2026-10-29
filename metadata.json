@@ -1,0 +1,6 @@
+{
+  "name": "FISIKA JENIUS — TKA ALAT OPTIK DAN CACAT MATA",
+  "description": "Aplikasi pembelajaran dan latihan TKA Fisika interaktif 30 soal HOTS penalaran alat optik dan cacat mata bersama Mister Jo, dilengkapi narator TTS bahasa Indonesia, simulasi animasi optik, pembahasan normal, dan cara cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
